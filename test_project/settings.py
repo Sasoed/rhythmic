@@ -14,7 +14,7 @@ from pathlib import Path
 import os
 
 
-ALLOWED_HOSTS = ["rhythmic.world"]
+ALLOWED_HOSTS = ["rhythmic.onrender.com"]
 
 
 
